@@ -1,6 +1,6 @@
 # Music Samples
 
-These mp3s were created by connecting the speaker jack from the music player into the PC and recording the accompanying MIDI file as it played.
+These mp3s were created by connecting the speaker jack from the music player board into the PC and recording the accompanying MIDI file as it played.
 
 Video game MIDI files were downloaded from:<p>
 [![](http://www.vgmusic.com/images/banners/lillogo.jpg)](http://www.vgmusic.com)<br>
