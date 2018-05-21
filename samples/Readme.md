@@ -6,7 +6,7 @@ Video game MIDI files were downloaded from:<br>
 
 ## Sequenced by:
 
-Sonc Chaos Sleeping Egg Zone - Joo *Johnnyz* Buaes 
+Sonc Chaos Sleeping Egg Zone - Joo *Johnnyz* Buaes<br>
 Super Mario Bros. Theme - PJ Barnes (original Smbtheme.mid)
 
 
