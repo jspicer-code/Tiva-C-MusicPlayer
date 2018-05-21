@@ -6,8 +6,9 @@ Video game MIDI files were downloaded from:<p>
 
 ## Songs Sequenced by:
 
-Sonc Chaos Sleeping Egg Zone - Joo *Johnnyz* Buaes<br>
-Super Mario Bros. Theme (original Smbtheme.mid) - PJ Barnes 
+Sonic Chaos - Sleeping Egg Zone.  Joo *Johnnyz* Buaes<br>
+Sonic the Hedgehog 2 - Scrambled Egg Zone.  Joo *Johnnyz* Buaes<br> 
+Super Mario Bros. Theme (original Smbtheme.mid).  PJ Barnes<br>
 
 
 More to come!
