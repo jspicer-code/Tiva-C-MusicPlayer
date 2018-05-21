@@ -14,23 +14,37 @@ This project builds on the work from Experiments 14-16, as well as Experiments 6
 [![](https://i.ytimg.com/vi/1OvchymIkCs/default.jpg)](https://youtu.be/1OvchymIkCs)<br>
 [Watch the video](https://youtu.be/1OvchymIkCs)
 
-### Images
+## Music Samples
 
-#### Music Player
+These mp3s were created by connecting the speaker jack from the music player board into the PC and recording the accompanying MIDI file as it played.
+
+![Batman Returns - Stage 1](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Batman2-Stage1.mp3)&nbsp;*Sequenced by Johnnyz*<br>
+![Sonic the Hedgehog 2 - Scrambled Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_ScrambledEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
+![Sonic Chaos - Sleeping Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SonicChaos-SleepingEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br>
+![Super Mario Bros. Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SuperMarioBros-Theme.mp3)&nbsp;(original Smbtheme.mid)&nbsp;*Sequenced by PJ Barnes*<br>
+
+Video game MIDI files were downloaded from:<p>
+[![](http://www.vgmusic.com/images/banners/lillogo.jpg)](http://www.vgmusic.com)<br>
+
+More samples to come!
+
+## Images
+
+### Music Player
 ![MusicPlayer](picture1.png)
 ![MusicPlayer](picture2.png)
 
-#### Downloader Screen
+### Downloader Screen
 ![DownloaderScreen](DownloaderScreen.png)
 
-#### Circuit Diagram
+### Circuit Diagram
 ![CircuitDiagram](MusicPlayer-circuit.png)
 
-#### State Diagram
+### State Diagram
 ![StateDiagram](StateDiagram.png)
 
-#### Task Diagram
+### Task Diagram
 ![TaskDiagram](TaskDiagram.png)
 
-#### Track Task Flowchart
+### Track Task Flowchart
 ![TrackTaskFlow](TrackTaskFlow.png)
