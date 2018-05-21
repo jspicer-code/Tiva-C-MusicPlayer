@@ -14,4 +14,4 @@ Sonic the Hedgehog 2 - Scrambled Egg Zone.  *Joo *Johnnyz* Buaes*<br>
 Super Mario Bros. Theme (original Smbtheme.mid).  *PJ Barnes*<br>
 
 
-More to come!
+More samples to come!
