@@ -39,6 +39,8 @@ These mp3s were created by connecting the speaker terminal from the music player
 Video game MIDI files were downloaded from:<p>
 [![](http://www.vgmusic.com/images/banners/lillogo.jpg)](http://www.vgmusic.com)<br>
 
+This project uses the Midifile library from https://midifile.sapp.org/ to parse the MIDI files.
+
 ## Images
 
 ### Music Player
