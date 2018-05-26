@@ -16,7 +16,7 @@ This project builds on the work from Experiments 14-16, as well as Experiments 6
 
 ## Music Samples
 
-These mp3s were created by connecting the speaker jack from the music player board into the PC and recording the accompanying MIDI file as it played.
+These mp3s were created by connecting the speaker terminal from the music player board to the mic input of the PC and recording the accompanying song (MIDI) file as it played.
 
 [Batman Returns - Stage 1](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Batman2-Stage1.mp3)&nbsp;*Sequenced by Johnnyz*<br>
 [Sonic the Hedgehog 2 - Scrambled Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_ScrambledEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
