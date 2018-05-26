@@ -16,7 +16,7 @@ This project builds on the work from Experiments 14-16, as well as Experiments 6
 
 ## Music Samples
 
-These mp3s were created by connecting the speaker terminal from the music player board to the mic input of the PC and recording the accompanying song (MIDI) file as it played.
+These mp3s were created by connecting the speaker terminal from the music player board to the mic input of the PC and recording the accompanying song (MIDI) file.
 
 [Batman Returns - Stage 1](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Batman2-Stage1.mp3)&nbsp;*Sequenced by Johnnyz*<br>
 [Castlevania 3 - Stage 1 Beginning](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/JILost_-_Famicom_-_Akumajo_Densetsu_-_Beginning.mp3)&nbsp;*Sequenced by JILost*<br>
@@ -28,7 +28,7 @@ These mp3s were created by connecting the speaker terminal from the music player
 [Sonic the Hedgehog 2 - Scrambled Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_ScrambledEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
 [Sonic the Hedgehog 2 - Green Hills Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_GreenHills.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
 [Sonic Chaos - Sleeping Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SonicChaos-SleepingEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br>
-[Super Mario Bros. Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SuperMarioBros-Theme.mp3)&nbsp;(original Smbtheme.mid)&nbsp;*Sequenced by PJ Barnes*<br>
+[Super Mario Bros. Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Smbtheme.mp3)&nbsp;*Sequenced by PJ Barnes*<br>
 [Tetris - Music A](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Tet_Music_A_NES-KM-GS.mp3)&nbsp;*Sequenced by King Meteor*<br>
 [Vs. Excitebike - Track 3](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/VsExcitebike3.mp3)&nbsp;*Sequenced by Chow*<br>
 [Wizardry II: The Legacy of Llylgamyn - Title Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Wizardry_II_Opening_Theme.mp3)&nbsp;*Sequenced by Yatorl Ogalbana*<br>
