@@ -19,14 +19,25 @@ This project builds on the work from Experiments 14-16, as well as Experiments 6
 These mp3s were created by connecting the speaker terminal from the music player board to the mic input of the PC and recording the accompanying song (MIDI) file as it played.
 
 [Batman Returns - Stage 1](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Batman2-Stage1.mp3)&nbsp;*Sequenced by Johnnyz*<br>
+[Castlevania 3 - Stage 1 Beginning](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/JILost_-_Famicom_-_Akumajo_Densetsu_-_Beginning.mp3)&nbsp;*Sequenced by JILost*<br>
+[Golvellius - Title Screen](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Golvellius-Title.mp3)&nbsp;*Sequenced by Johnnyz*<br>
+[Lemmings - Level 11 Ronda Alla Turca](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Lemmings-Level11.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
+[R. C. Grand Prix - Main Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/RCGrandPrix.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
+[Renegade - Mission 1 Inside Train](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Reneg-Inside.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
+[Sonic the Hedgehog - Bonus Stage](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic_Bonus.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
 [Sonic the Hedgehog 2 - Scrambled Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_ScrambledEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
+[Sonic the Hedgehog 2 - Green Hills Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Sonic2_GreenHills.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br> 
 [Sonic Chaos - Sleeping Egg Zone](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SonicChaos-SleepingEgg.mp3)&nbsp;*Sequenced by Joo *Johnnyz* Buaes*<br>
 [Super Mario Bros. Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/SuperMarioBros-Theme.mp3)&nbsp;(original Smbtheme.mid)&nbsp;*Sequenced by PJ Barnes*<br>
+[Tetris - Music A](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Tet_Music_A_NES-KM-GS.mp3)&nbsp;*Sequenced by King Meteor*<br>
+[Vs. Excitebike - Track 3](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/VsExcitebike3.mp3)&nbsp;*Sequenced by Chow*<br>
+[Wizardry II: The Legacy of Llylgamyn - Title Theme](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Wizardry_II_Opening_Theme.mp3)&nbsp;*Sequenced by Yatorl Ogalbana*<br>
+[Wonder Boy in Monster World - Shore](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/WB5-Shore.mp3)&nbsp;*Sequenced by Johnnyz*<br>
+[Zelda II: The Adventure of Link](https://raw.githubusercontent.com/jspicer-ltu/Tiva-C-MusicPlayer/master/samples/Zelda2ov.mp3)&nbsp;*Sequenced by JILost*<br>
+
 
 Video game MIDI files were downloaded from:<p>
 [![](http://www.vgmusic.com/images/banners/lillogo.jpg)](http://www.vgmusic.com)<br>
-
-More samples to come!
 
 ## Images
 
