@@ -1,0 +1,1 @@
+This project uses the Midifile parsing library from https://midifile.sapp.org/
