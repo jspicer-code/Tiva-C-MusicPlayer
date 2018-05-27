@@ -1,7 +1,7 @@
 # Music Player
 
 ## Overview
-This project uses the Tiva C EK-TM4C123GXL board to build a device that plays the music from early video games.  The music data comes from MIDI files, and is converted to an optimized format that is downloaded to the Tiva's Flash memory from the PC's serial port.  Up to 224Kib of song data can be downloaded (about 8 to 12 songs).  The firmware uses FreeRTOS, and is an example of a soft real-time system.
+This project uses the Tiva C EK-TM4C123GXL board to build a device that plays retro video game music.  The music data comes from MIDI files, and is converted to an optimized format that is downloaded to the Tiva's Flash memory from the PC's serial port.  Up to 224Kib of song data can be downloaded (about 8 to 12 songs).  The firmware uses FreeRTOS, and is an example of a soft real-time system.
 
 The buttons on the Tiva are used to cycle to the next and previous songs in the song list, and the blue button on the board toggles between Play and Stop.  An LCD displays information about the current song, such as its name, song index, track count, size, and length.  Each second, a time marker is incremented as the song plays.  
 
