@@ -9,7 +9,7 @@ To produce the musical sounds, the Tiva's PWM channels are used to generate squa
 
 The firmware was designed as a state machine with a total of six states, five events, and four actions.  Zero or more actions are invoked when an event causes a transition from one state to another.   The main program is implemented by two interrupt service routines (ISRs) and eight FreeRTOS tasks.  The tasks can be in a running or blocked state at any given time.  The tasks and ISRs synchronize by giving/taking binary semaphores.   
 
-This project builds on the work from Experiments 14-16, as well as Experiments 6 & 13.
+This project builds on the work from [Experiments 14-16](https://github.com/jspicer-ltu/Tiva-C-Embedded), as well as [Experiments 6 & 13](https://github.com/jspicer-ltu/Tiva-C-Embedded).
 
 [![](https://i.ytimg.com/vi/1OvchymIkCs/default.jpg)](https://youtu.be/1OvchymIkCs)<br>
 [Watch the video](https://youtu.be/1OvchymIkCs)
